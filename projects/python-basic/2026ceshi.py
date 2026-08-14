@@ -1,0 +1,2 @@
+a = "ceshi"
+print(a)
