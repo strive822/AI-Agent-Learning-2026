@@ -1,2 +1,0 @@
-a = "ceshi"
-print(a)
